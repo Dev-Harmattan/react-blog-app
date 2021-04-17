@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "author": "kean",
+      "title": "My Story",
+      "body": "Lorem ipsum dLorem ipsum dolor sit amet? \n consectetur adipiscing elit, incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet"
+    },
+    {
+      "id": 2,
+      "author": "Lekan",
+      "title": "My Journey",
+      "body": "Lorem ipsum dLorem ipsum dolor sit amet? \n consectetur adipiscing elit, incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet"
+    },
+    {
+      "title": "My Best Lecturer",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis modi suscipit dolore vero eveniet commodi at fugit molestiae! Nemo esse quisquam rerum officia animi architecto aliquam sequi rem culpa tempora quia placeat dolores necessitatibus ipsum eaque, natus asperiores quibusdam itaque quas\naccusantium distinctio debitis corporis laboriosam velit. Sed, deserunt laboriosam.",
+      "author": "Lekan",
+      "id": 3
+    }
+  ]
+}
